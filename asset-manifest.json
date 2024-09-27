@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thaniulagam/static/css/main.d7491f27.css",
+    "main.js": "/thaniulagam/static/js/main.a28504b7.js",
+    "static/js/453.63bac949.chunk.js": "/thaniulagam/static/js/453.63bac949.chunk.js",
+    "static/media/signUpbg.jpg": "/thaniulagam/static/media/signUpbg.ffa31a970557817d4012.jpg",
+    "static/media/homeBg.jpg": "/thaniulagam/static/media/homeBg.117fc9633a2540ee5fa7.jpg",
+    "static/media/Moul-Regular.ttf": "/thaniulagam/static/media/Moul-Regular.1ad4d0d00593229b22df.ttf",
+    "static/media/logohome.png": "/thaniulagam/static/media/logohome.8ccf7973ae3cd1f4d1bb.png",
+    "index.html": "/thaniulagam/index.html",
+    "static/media/at.svg": "/thaniulagam/static/media/at.d93bb84da08a8974c8cc54d9efbbf059.svg",
+    "static/media/lock-fill.svg": "/thaniulagam/static/media/lock-fill.b97cabca6ad81af791e9bccc10edfd07.svg",
+    "static/media/person-circle.svg": "/thaniulagam/static/media/person-circle.b558284273d0b6dfaa315151208c693e.svg",
+    "main.d7491f27.css.map": "/thaniulagam/static/css/main.d7491f27.css.map",
+    "main.a28504b7.js.map": "/thaniulagam/static/js/main.a28504b7.js.map",
+    "453.63bac949.chunk.js.map": "/thaniulagam/static/js/453.63bac949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7491f27.css",
+    "static/js/main.a28504b7.js"
+  ]
+}
