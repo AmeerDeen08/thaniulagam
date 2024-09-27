@@ -1,0 +1,56 @@
+.card-container {
+  display: flex;
+  
+ 
+}
+
+
+.equal-card {
+  min-height: 500px;
+  max-height: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.card-body {
+  
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+
+.card-content {
+  /* Ensures the content is hidden if it overflows */
+  overflow: hidden;
+
+  /* Adds ellipsis if the text overflows */
+  text-overflow: ellipsis;
+  
+  /* WebKit browsers (Chrome, Safari, Edge) */
+  display: -webkit-box;
+  -webkit-line-clamp: 5; /* Limits text to 6 lines */
+  -webkit-box-orient: vertical;
+
+  /* Future standard support */
+  line-clamp: 6; /* Currently not widely supported */
+
+  /* Fallback for unsupported browsers */
+  white-space: normal; /* Allows the text to break lines */
+  max-height: calc(1.5em * 6); /* Ensures a max height based on line-height (1.5em * 6 lines) */
+  margin-bottom: 10px; /* Adds some spacing at the bottom */
+}
+
+
+
+
+
+.read-more-button {
+  margin-top: auto;
+  align-self: flex-start; 
+}
+.hi{
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+}
